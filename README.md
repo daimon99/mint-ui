@@ -1,3 +1,9 @@
+# fork 自 Mint UI
+
+结合自己需要，针对性改造部分组件。
+一些适合其它人的，会pr回mint ui。
+mint ui的一些认可的改进，也会再合并回这个库中。
+
 # Mint UI
 
 [![Build Status](https://travis-ci.org/ElemeFE/mint-ui.svg?branch=master)](https://travis-ci.org/ElemeFE/mint-ui)
